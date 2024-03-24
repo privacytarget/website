@@ -1,3 +1,4 @@
+npm i @vercel/speed-insights
 {
   "statusBarMessage": {
     "text": "We are now on Open Collective! Check it out",
